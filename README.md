@@ -72,7 +72,7 @@ and reload your Zulip client.
 
 ---
 
-## Example Snippet (`translations_sv.json`)
+## Example Snippet (`translations.json`)
 
 ```json
 {
